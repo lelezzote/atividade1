@@ -94,3 +94,12 @@ input, textarea {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+
+button {
+  background-color: #27ae60;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
